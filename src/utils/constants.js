@@ -9,3 +9,5 @@ export const API_OPTIONS = {
         "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMzEzY2Q4MzYxYWYzYTUyYmM3ZTYxODhiNDBhZDU5NCIsInN1YiI6IjY2NGIxNmU4NjZjNDVhNzlkOGRmYjE1NyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.kYO9zvBQMOU2clhDnCKxpm7E_9bZAi8OWkYN8H_ky9s"
     }
 }
+
+export const IMG_CDN_URL="https://image.tmdb.org/t/p/w500/"
