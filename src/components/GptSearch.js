@@ -1,6 +1,6 @@
 import React from 'react'
 import GptSearchBar from './GptSearchBar'
-import GptSuggestion from './GptSuggestion'
+import GptSuggestion from './GptMovieSuggestion'
 
 import {LOGIN_BG_URl  } from '../utils/constants'
 
@@ -8,7 +8,7 @@ const GptSearch = () => {
     
   return (
       <div>
-          <div className="absolute -z-10">
+          <div className="fixed -z-10">
         <img
 
           src={LOGIN_BG_URl}
